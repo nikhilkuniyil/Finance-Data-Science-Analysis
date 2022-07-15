@@ -15,6 +15,6 @@ In this data project we will focus on exploratory data analysis of stock prices.
 • Git (latest version)<br/>
 
 ## File Description
-**'Finance-Data-Science'**
+**'Finance-Data-Science'**<br/>
 Contains source code for data analysis and visualization stored in a jupyter notebook
 
