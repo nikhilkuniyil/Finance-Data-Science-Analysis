@@ -5,14 +5,14 @@ In this data project we will focus on exploratory data analysis of stock prices.
 
 ## Libraries Used
 • NumPy<br/>
-• Pandas
-• Matplotlib
-• Seaborn
+• Pandas<br/>
+• Matplotlib<br/>
+• Seaborn<br/>
 
 ## Installation Requirements
-• Python 3.x
-• Jupyter Notebook
-• Git (latest version)
+• Python 3.x<br/>
+• Jupyter Notebook<br/>
+• Git (latest version)<br/>
 
 ## File Description
 **'Finance-Data-Science'**
